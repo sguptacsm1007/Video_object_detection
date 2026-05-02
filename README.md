@@ -10,8 +10,8 @@ Install python and libraries mentioned below to execute code correctly
 
 # Steps to Reproduce
 
-1 Download DETR model from huggingface and place it in your local directory and store path of local directory in model_path variable
-2 Execute command streamlit run streamlit_video_detection_local.py
+1. Download DETR model from huggingface and place it in your local directory and store path of local directory in model_path variable
+2. Execute command streamlit run streamlit_video_detection_local.py
 
 
 # Sample Output 
